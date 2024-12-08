@@ -1,5 +1,5 @@
-# Automated Medical Conditions Detection in E.N.T Images Using Deep Learning Techniques
 ### link: https://github.com/24-25J-097
+# Automated Medical Conditions Detection in E.N.T Images Using Deep Learning Techniques
 
 ## Overview
 Welcome to the **Automated Medical Conditions Detection in E.N.T Images Using Deep Learning Techniques** GitHub organization. This organization hosts all code repositories related to our research on the automated identification of ENT-related conditions using advanced machine learning techniques. Our objective is to develop, test, and deploy web and mobile applications for identifying sinusitis, foreign objects in the throat, cholesteatoma in the ear, and pharyngitis in oral images.
