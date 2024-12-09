@@ -57,6 +57,6 @@ Unauthorized use, modification, or distribution is prohibited.
 
 ## 🤝 Contact Us
 
-Have questions or want to collaborate?
+Have questions?
 
 - Email: [it21156410@my.sliit.lk](mailto:it21156410@my.sliit.lk) / [it21169908@my.sliit.lk](mailto:it21169908@my.sliit.lk)
