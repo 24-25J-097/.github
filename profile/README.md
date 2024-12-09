@@ -36,4 +36,12 @@ Each repository contains a detailed `README.md` with setup instructions, require
  
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Copyright (c) 2024 24-25J-097
+
+All rights reserved. No part of this software may be reproduced, distributed, 
+or transmitted in any form or by any means, including photocopying, recording, 
+or other electronic or mechanical methods, without prior written permission 
+from the author, except in the case of brief quotations in reviews or academic use.
+
+Unauthorized use, modification, or distribution is prohibited.
+
