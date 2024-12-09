@@ -6,6 +6,9 @@
 
 Welcome to the Automated Medical Conditions Detection in E.N.T Images Using Deep Learning Techniques GitHub organization. This organization hosts all code repositories related to our research on the automated identification of ENT-related conditions using advanced deep learning techniques. Our objective is to develop, test, and deploy web and mobile applications for identifying sinusitis, foreign objects in the throat, cholesteatoma in the ear, and pharyngitis in oral images.
 
+### System Diagram
+![full-system-diagram](https://github.com/user-attachments/assets/4e92f698-168d-41fd-9546-05b2741bdc72)
+
 ## 📁 Repositories
 
 Below, you’ll find a summary of all the repositories within our organization. Each repository has a specific purpose, and together, they form the foundation of our projects.
